@@ -1,6 +1,6 @@
 # 📡 RF Spectrum Lab
 
-**A Python software-defined-radio-style signal analysis demo, built for a software engineering portfolio.**
+**A Python software-defined-radio-style signal analysis demo.**
 
 Offline RF signal simulation, complex IQ processing, frequency-spectrum analysis, waterfall visualization, and narrowband peak detection. **No SDR hardware required.**
 
