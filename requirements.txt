@@ -1,0 +1,7 @@
+# Tested with Python 3.13; Python 3.10+ supported by the app code.
+numpy>=1.26,<3
+scipy>=1.12,<2
+pandas>=2.0,<3
+plotly>=5.20,<7
+streamlit>=1.39,<2
+matplotlib>=3.8,<4
