@@ -1,4 +1,4 @@
-# 📡 RF Spectrum Lab
+# RF Spectrum Lab
 
 **A Python software-defined-radio-style signal analysis demo.**
 
